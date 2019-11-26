@@ -1,0 +1,7 @@
+D:\Others\Learning\.Net Concept\Inheritanc\Inheritanc\bin\Debug\Inheritanc.exe.config
+D:\Others\Learning\.Net Concept\Inheritanc\Inheritanc\bin\Debug\Inheritanc.exe
+D:\Others\Learning\.Net Concept\Inheritanc\Inheritanc\bin\Debug\Inheritanc.pdb
+D:\Others\Learning\.Net Concept\Inheritanc\Inheritanc\obj\Debug\Inheritanc.csprojAssemblyReference.cache
+D:\Others\Learning\.Net Concept\Inheritanc\Inheritanc\obj\Debug\Inheritanc.csproj.CoreCompileInputs.cache
+D:\Others\Learning\.Net Concept\Inheritanc\Inheritanc\obj\Debug\Inheritanc.exe
+D:\Others\Learning\.Net Concept\Inheritanc\Inheritanc\obj\Debug\Inheritanc.pdb
